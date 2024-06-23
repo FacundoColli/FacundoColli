@@ -2,7 +2,7 @@ Bienvenidos a mi perfil de GitHub👋
 
 🌱 Acerca de mí
 
-  Hola, me llamo Facundo, tengo 21 años de edad y soy de Enre Ríos, Argentina. 
+  Hola, me llamo Facundo, tengo 21 años de edad y soy de Entre Ríos, Argentina. 
 
 📚 Mis estudios
 
